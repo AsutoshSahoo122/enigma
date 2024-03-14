@@ -1,0 +1,6 @@
+touch file.txt
+git init 
+git add file.txt
+git commit 
+git push origin master
+
