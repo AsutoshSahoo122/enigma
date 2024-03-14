@@ -1,7 +1,12 @@
 touch comm.txt
 touch data.txt
+nano comm.txt
 git init
-git remote add https://github.com/AsutoshSahoo122.git
+git add .
+. means adds all the files in the current directory
+git commit -m "SUCCESS"
+git remote add origin https://github.com/AsutoshSahoo122.git
 git push origin master
 git status
+
 
