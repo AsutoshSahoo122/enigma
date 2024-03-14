@@ -1,0 +1,7 @@
+touch comm.txt
+touch data.txt
+git init
+git remote add https://github.com/AsutoshSahoo122.git
+git push origin master
+git status
+
